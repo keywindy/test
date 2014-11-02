@@ -1,4 +1,4 @@
-testjs
-======
+Test Repository
+===============
 
-testjs is for test only
+This test repository is in order to collect some testing code.
